@@ -1,0 +1,23 @@
+{
+  "general": {
+    "title": "CarSharing",
+    "home": "Domov",
+    "about": "O nás",
+    "statistics": "Štatistiky",
+    "contact": "Kontaktujte nás"
+  },
+  "header": {
+    "login": "Prihlásiť sa",
+    "logout": "Odhlásiť sa",
+    "signup": "Registrovať sa"
+  },
+  "footer": {
+    "register": "Registrovať sa",
+    "support": "Podpora"
+  },
+  "homePage": {
+    "texts": {
+      "rideSharing": "Zdieľanie jazdy"
+    }
+  }
+}
